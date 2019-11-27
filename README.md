@@ -1,6 +1,6 @@
 # Seq2Seq4ATE
 
-## Codes for Paper "Exploring Sequence-to-Sequence Learning for Aspect Term Extraction".
+## Codes for the paper "Exploring Sequence-to-Sequence Learning for Aspect Term Extraction".
 
 ### (1).Menu:  
 > ./code/train.py -> for training  
@@ -36,7 +36,7 @@
 > We must thank all authors from this paper: 'Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction'. We adopt many codes from their projects. Thank a lot!
 
 ### (7).Apology
-> I apologize to all reader that I can not get the original results in the paper for some reason. I fine-tune on two dataset and get new results. It is unbelievable that the new results are higher than the results reported in the paper. 
+> I apologize to all readers that I can not get the original results in the paper for some reason. I fine-tune on two datasets and get new results. It is unbelievable that the new results are higher than the results reported in the paper. 
 
 > Restaurnat: 75.14 -> 76.15  
 > Laptop    : 80.31 -> 80.62  
