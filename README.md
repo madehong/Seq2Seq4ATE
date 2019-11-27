@@ -22,7 +22,7 @@
 ### (3).Processing data  
 > 1. We adopt the data processing method from the paper: 'Double Embeddings and CNN-based Sequence Labeling for Aspect Extraction' (https://arxiv.org/abs/1805.04601).  
 > 2. If you want to process your own data, please follow their introduction (https://github.com/howardhsu/DE-CNN).  
-3. We have preprocessed the dataset by their method, and all data are stored in dir: /data/pre_data/  
+> 3. We have preprocessed the dataset by their method, and all data are stored in dir: /data/pre_data/  
 
 
 ### (4).Training
