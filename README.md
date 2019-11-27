@@ -1,6 +1,6 @@
 # Seq2Seq4ATE
 
-## Codes for the paper "Exploring Sequence-to-Sequence Learning for Aspect Term Extraction".
+## Codes for the paper "[Exploring Sequence-to-Sequence Learning for Aspect Term Extraction](https://www.aclweb.org/anthology/P19-1344.pdf)".
 
 ### (1).Menu:  
 > ./code/train.py -> for training  
