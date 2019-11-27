@@ -42,7 +42,7 @@
 > Laptop    : 80.31 -> 80.62  
 
 ### (8).Others
-> If you thank the codes & paper are helpful, please cite this paper:  
+> If you think the codes & paper are helpful, please cite this paper. Thank you!  
 
 > @inproceedings{ma2019exploring,  
 >   title={Exploring Sequence-to-Sequence Learning in Aspect Term Extraction},  
